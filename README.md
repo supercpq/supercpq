@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a student from Dalian University of Technology. And I love the front end.
 
 <!--
 **supercpq/supercpq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
