@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+   <img src="https://img.shields.io/badge/-Vite-%232C3A42?style=flat-square&logo=vite">
 <!--   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint"> -->
 </div>
 
