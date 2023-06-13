@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![supercpq's GitHub stats](https://github-readme-stats.vercel.app/api?username=supercpq&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=supercpq)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercpq&layout=compact&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=supercpq)
