@@ -35,9 +35,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex; flex-direction: column;">
-![supercpq's GitHub stats](https://github-readme-stats.vercel.app/api?username=supercpq&show_icons=true&theme=tokyonight)
+  <img  src="https://github-readme-stats.vercel.app/api?username=supercpq&show_icons=true&theme=tokyonight" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=supercpq&layout=compact&theme=tokyonight" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=supercpq" />
+<!-- ![supercpq's GitHub stats](https://github-readme-stats.vercel.app/api?username=supercpq&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercpq&layout=compact&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=supercpq)
+![](https://github-readme-streak-stats.herokuapp.com/?user=supercpq) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
