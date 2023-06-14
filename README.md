@@ -34,14 +34,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="display: flex; flex-direction: column;">
 ![supercpq's GitHub stats](https://github-readme-stats.vercel.app/api?username=supercpq&show_icons=true&theme=tokyonight)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercpq&layout=compact&theme=tokyonight)
-<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=supercpq)
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
+</div>
