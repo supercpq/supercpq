@@ -11,7 +11,7 @@ on:
       - main  
   
   schedule:
-    - cron:  "7 1 * * *" 
+    - cron:  "0 0 * * *" 
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
@@ -27,7 +27,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: supercpq
           outputs: |
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
