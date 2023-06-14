@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column;align-items: center;">
   <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=supercpq&show_icons=true&theme=tokyonight" />
   </div>
