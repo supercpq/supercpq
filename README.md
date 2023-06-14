@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; flex-direction: column;align-items: center;">
+<div style="display: flex; flex-direction: column;"  align="center">
   <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=supercpq&show_icons=true&theme=tokyonight" />
   </div>
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
   </div>
   <div>
     <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+      <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+    </picture>
   </div>
 <!-- ![supercpq's GitHub stats](https://github-readme-stats.vercel.app/api?username=supercpq&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercpq&layout=compact&theme=tokyonight)
