@@ -35,8 +35,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![supercpq's GitHub stats](https://github-readme-stats.vercel.app/api?username=supercpq&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercpq&layout=compact&theme=tokyonight)
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=supercpq)
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
