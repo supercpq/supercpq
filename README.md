@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white"> 
 <!--   <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">   -->
   <img src="https://img.shields.io/badge/-Vue.js-dafbe1?style=flat&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
