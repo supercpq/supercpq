@@ -1,4 +1,4 @@
-### Hi there 👋 I am a student from Dalian University of Technology. And I love the front end. 
+### Hi there 👋 I am a student from Dalian University of Technology. And I love the front end.
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
